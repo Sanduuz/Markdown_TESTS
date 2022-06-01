@@ -5,4 +5,4 @@
 
 | ![also borken](./attachments/kitten.png) |
 |:---:|
-| Cute cat |
+| Cute cat $x_n$ |
