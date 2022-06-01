@@ -2,6 +2,6 @@
 
 > Blah
 > Blahblah
-> | ![Image](./testimage.png) |
+> | ![Image](./attachments/testimage.png) |
 > |:---:|
 > | yeet |
